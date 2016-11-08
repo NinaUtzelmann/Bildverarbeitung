@@ -1,0 +1,9 @@
+3 a) Bild01 ist unterbelichtet. Erkennbar an Verdichtung der Bildpunkte im unteren Bereich (0 - ca. 60)
+     Bild03 ist ueberbelichtet. Erkennbar an Verdichtung der Bildpunkte im oberen Bereich (230 - 250)
+	 
+3 b) Im Histogramm von Bild02 sind mehr Bildpunkte im hoeheren Bereich. Die Verdichtung der Bildpunkte aus Bild01 wurde auf einen hoeheren Bereich verteilt.
+	 Durch die Aufhellung gehen Bildinformationen verloren, erkennbar z.B. an der Pfuetze am rechten Reifen, bei der im Originalbild die Struktur noch besser sichtbar ist
+  c) In Bild05 wurde der Kontrast erhoeht. Erkennbar durch Dehnung und Verschiebung des Original-Histogrammes
+	 d.h. der dunkelste Pixel im Original wurde auf den dunkelstmoeglichen Wert, der hellste Pixel im Original auf den hellstmoeglichen Wert verschoben).
+
+5 a) Der in Aufgabe 3b aufgetretene Datenverlust koennte dadurch vermieten werden, dass man die Werte im hellen Bereich (z.B. ab Wert 200) gar nicht oder nur gering erhoeht.
