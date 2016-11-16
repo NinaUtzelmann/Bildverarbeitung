@@ -1,0 +1,9 @@
+3 a) Frage: Was ist eine homogene und was eine nicht-homogene Punktoperation?
+     Antwort: - homogene Punktoperation: auf jeden Pixel wird die Gleiche Funktion angewendet, unabhängig von der Position.
+		z.B. Änderung von Kontrast oder Helligkeit
+	      - nicht-homogene Punktoperation: auf bestimmte Pixel an einer bestimmten Postition wird eine Funktion angewendet, 
+		die sich von der Funktion unterscheidet, die auf die restlichen Pixel angewendet wird.
+  
+  b) Frage: Was ist der Unterschied zwischen Punktoperationen und Filteroperationen?
+     Antwort: - Punktoperationen verändern Pixel unabhängig von ihren Nachbarpixeln
+	      - Filteroperationen verändern Pixel abhängig von ihren Nachbarpixeln
