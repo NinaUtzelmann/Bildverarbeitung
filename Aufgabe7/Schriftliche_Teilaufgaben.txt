@@ -1,0 +1,5 @@
+Aufgabe 3
+Die Dilatation erhellt das Bild, da der Maximalwert der hellste Wert ist.
+Die Erosion verdunkelt das Bild, da der Maximalwert nach der Invertierung der Minimalwert der Nachbarschaft ist.
+
+Je nach Größe und Struktur des Strukturelementes werden bestimmte Nachbarn höher priorisiert und demnach verändert sich die Struktur der Umgebung in Größe des Strukturelementes anhand dieses priorisierten Bildpunktes.

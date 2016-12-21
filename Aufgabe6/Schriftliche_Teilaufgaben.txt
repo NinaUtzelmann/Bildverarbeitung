@@ -1,0 +1,16 @@
+Aufgabe 3
+
+Sinnvolle Schwellenwerte: 15 - 25
+
+Aufgabe 4
+
+a) 	Die extrem weißen Stellen sind die Geraden. Also die schwarzen Linien im original Bild. 
+	Die Kanten sind die kleineren weißen Stellen um die extrem weißen Punkten herum.
+	Somit könnte man alle Werte die zwar nicht 0 sind aber auch kein maximum sind suchen.
+	Bei uns die Schwellwerte zwischen 0 und 15.
+
+b)	Die dominierensten Geraden im original Bild sind die Stellen mit den meisten Treffern im houghArray.
+	Im Plot die extrem weißen Stellen.
+
+c)	Bei dem Non-Maximum Suppression werden lokale Maxima im houghArray gesucht und alles andere auf 0 gesetzt.
+

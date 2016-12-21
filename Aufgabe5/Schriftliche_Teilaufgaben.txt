@@ -1,0 +1,3 @@
+3 a) Heap Sort funktioniert schneller bei ähnlichen Werten (was bei Bildern der Fall ist).
+  b) Nach Tests sehen wir, dass bei mehrmaligem Anwenden z.B. des Medianfilters das Bild weicher wird
+  c) Nach Tests sehen wir, dass das Bild bei größeren Filtern direkt weicher und mehr "Salz" und "Pfeffer" entfernt wird

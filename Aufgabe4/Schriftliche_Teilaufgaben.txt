@@ -1,0 +1,11 @@
+3.1	Arten: 1. Glättungsfilter 1.1 Box-Filter, mit Randbehandlung -> Minimum, Maximum, Mirror, Continue 2.1 Gauß-Filter
+2 Differenzfilter 
+
+Eigenschaften linearer Filter:
+1. Kommutativität -> Man erhält dasselbe Ergebnis, wenn man Bild und Filterfunktion vertauscht.
+2. Linearität --> Wenn man ein Bild mit einer skalaren Kon-
+stante a multipliziert, multipliziert sich auch das Faltungsergebnis
+mit demselben Faktor. Wenn man zwei Bilder pixelweise addiert und dann die Summe filtert, erhält man dasselbe Ergebnis bei getrennter Filterung und anschließender Addition.
+3. Assoziativität -> Man kann mehrere Filter in verschiedener Reihenfolge auf ein Bild anwenden und erhält in jedem Fall dasselbe Ergebnis.
+
+3.2 Lineare Filter verwischen bspw. Kanten, Punkte oder Linien und reduzieren damit die Bildqualität. Nicht-lineare Filter dagegen entfernen einzelne lokale Extrem-Werte, ohne die anderen Pixel der Umgebung zu verwischen. 
